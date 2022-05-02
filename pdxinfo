@@ -1,0 +1,4 @@
+name=weirdPong
+bundleId=com.NILCO.weirdPong
+author=ussaohelcim
+description=Simple pong i made to learn the basics of Playdate api.
